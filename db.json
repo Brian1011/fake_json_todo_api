@@ -1,4 +1,7 @@
 {
+"posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
   "todos": [
       {
         "id": 1,
@@ -6,7 +9,7 @@
         "description": "Buy milk, eggs, and bread.",
         "isCompleted": false,
         "createdAt": "2023-08-14T08:00:00Z",
-        "updatedAt": null
+        "updatedAt": "2023-08-14T08:00:00Z",
       },
       {
         "id": 2,
