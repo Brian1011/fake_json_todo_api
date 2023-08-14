@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Buy Groceries",
+    "description": "Buy milk, eggs, and bread.",
+    "isCompleted": false,
+    "createdAt": "2023-08-14T08:00:00Z",
+    "updatedAt": null
+  },
+  {
+    "id": 2,
+    "title": "Finish Project",
+    "description": "Complete the coding project by the deadline.",
+    "isCompleted": true,
+    "createdAt": "2023-08-12T13:30:00Z",
+    "updatedAt": "2023-08-13T18:45:00Z"
+  }
+]
