@@ -20,10 +20,9 @@
       "updatedAt": "2023-08-13T18:45:00Z"
     }
   ],
-   "users":[
-    {"id":1, "name": "Brian","email": "test@gmail.com","pin": 1234},
-    {"id":2, "name": "Tom","email": "tom@gmail.com","pin": 1234},
-    {"id":3, "name": "Darbie","email": "darbie@gmail.com","pin": 1234}
-  ],
+  "users":[
+    {"id":1, "name": "Brian","email": "test@gmail.com","password": 1234},
+    {"id":2, "name": "Tom","email": "tom@gmail.com","password": 1234},
+    {"id":3, "name": "Darbie","email": "darbie@gmail.com","password": 1234}
+  ]
 }
-
